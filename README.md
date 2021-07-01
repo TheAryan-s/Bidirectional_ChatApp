@@ -1,2 +1,2 @@
 # Bidirectional_ChatApp
-Simple bidirectional chat app in java
+Simple bidirectional chat app in java using Terminal.
